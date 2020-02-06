@@ -1,1 +1,2 @@
 Coronaviruses are a family of viruses that range from the common cold to MERS coronavirus, which is Middle East Respiratory Syndrome coronavirus and SARs, Severe acute respiratory syndrome coronavirus.
+Corona viruses are circulating in animals and some of these coronaviruses have the capability of transmitting between animals and humans. We call that a spillover event.
